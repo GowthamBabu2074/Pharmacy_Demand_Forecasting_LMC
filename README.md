@@ -20,4 +20,6 @@ I really thank satish sir(https://www.linkedin.com/in/satish-vadlamani-phd-a8039
 Final Thanks to Lakshmi Medical Corporation, Ongole, Andhra Pradesh, INDIA for trusting us and giving their shop data for our project.
 
 NOTE:- 
-Since, this being a company data, any type data is not inculded for security purposes.
+Since, this being a company data, any type of analysis, forecasted model are not inculded for security purposes. 
+Hope you understand 🙂🙂
+You can connect with me through LinkedIn for more details about project.
