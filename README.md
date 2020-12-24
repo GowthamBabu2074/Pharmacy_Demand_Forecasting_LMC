@@ -4,7 +4,7 @@ Forecasting the sales values for a pharmactual company. Using a time series for 
 Steps involved:-
   1) Creating an architecture for our project.
   2) Collecting Data from the company.
-  3) Cleaning of data using pyhtona manual claening of data column using excel.
+  3) Cleaning of data using pyhton and manual claening of data column using excel.
   4) Loading into SQL server for querying the data
   5) Analysing and Creating dashboards using Tableau and visualyzing using python.
   6) Building a time series model using SARIMAX and forecasting the results.
