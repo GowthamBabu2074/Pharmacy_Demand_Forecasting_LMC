@@ -13,7 +13,6 @@ Team Members:-
 1) Sai Gowtham Babu AMBURI (My self)(https://www.linkedin.com/in/sai-gowtham-babu-amburi/)
 2) Jia wu (https://www.linkedin.com/in/jiawuphd/)
 3) Chaintanya (https://www.linkedin.com/in/sai-chaitanya-945404133/)
-4) Sri (https://www.linkedin.com/in/nagasrilakshmi-kadiyala-6b6a89176/)
 
 I really thank satish sir(https://www.linkedin.com/in/satish-vadlamani-phd-a8039012/) for helping us with the project and solving our doubts.
 
